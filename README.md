@@ -5,7 +5,7 @@ Full Stack React PERN app
 
 - Download source code or clone project
   ```
-  git clone https://github.com/vallejo-fran/product-manager.git
+  git clone https://github.com/vallejofran/product-manager.git
   cd product-manager
   ```
   
